@@ -31,28 +31,13 @@
 </dependency>
 
 
-<!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
+<!-- https://mvnrepository.com/artifact/com.beust/jcommander -->
 <dependency>
-    <groupId>commons-io</groupId>
-    <artifactId>commons-io</artifactId>
-    <version>2.6</version>
+    <groupId>com.beust</groupId>
+    <artifactId>jcommander</artifactId>
+    <version>1.27</version>
 </dependency>
-<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
-<dependency>
-    <groupId>org.apache.poi</groupId>
-    <artifactId>poi-ooxml</artifactId>
-    <version>3.9</version>
-</dependency>
-<!-- https://mvnrepository.com/artifact/com.github.2gis.winium/winium-webdriver -->
 
-
-
-<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-htmlunit-driver -->
-<dependency>
-    <groupId>org.seleniumhq.selenium</groupId>
-    <artifactId>selenium-htmlunit-driver</artifactId>
-    <version>2.9.0</version>
-</dependency>
 
   </dependencies>
 </project>
